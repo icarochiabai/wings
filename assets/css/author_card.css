@@ -1,0 +1,33 @@
+.author-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 8rem;
+}
+
+.author-card * {
+  margin: 0;
+}
+
+.author-card-profile {
+  max-height: 144px;
+  max-width: 144px;
+  
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+
+.author-card-name {
+  /* font-family: 'BigBlueTerminal'; */
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--author-card-name-color);
+
+  /* text-shadow: 0px 5px 15px rgba(0,0,0,0.35); */
+}
+
+.author-card-bio {
+  color: var(--author-card-bio-color);
+  font-size: large;
+}

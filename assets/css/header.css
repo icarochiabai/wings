@@ -1,0 +1,30 @@
+header {
+  margin-bottom: 4rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  color: var(--header-color);
+}
+
+.header-title {
+  font-weight: 900;
+}
+
+.header-menu {
+  font-weight: 600;
+}
+
+.header-menu > ul {
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  gap: 1rem;
+}
+
+.header-menu > ul li:hover {
+  color: var(--main-highlight-color)
+}

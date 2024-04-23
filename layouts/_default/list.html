@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  
+  <section class="post-cards" view="vertical">
+    {{ range .Pages }}
+      {{ partial "post_card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}
