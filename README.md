@@ -4,6 +4,10 @@
 
 <small>Heavily inspired by [Blowfish](https://blowfish.page/).</small>
 
+![](demo1.gif)
+
+![](demo2.gif)
+
 ## Features
 
 * Almost no JavaScript
