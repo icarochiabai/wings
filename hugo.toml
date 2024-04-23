@@ -1,27 +1,29 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 20
-
-[[menus.main]]
-name = 'Notas'
-pageRef = '/notas'
-weight = 30
-
 [params]
   toc = true
-
-  [params.author]
-    name = 'Ícaro Chiabai'
-    bio = 'Minhas coisas!'
-    postInfo = 'Apaixonado por coisas belas.'
 
 [module]
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+# Add or modify all below to your humo.toml file
+
+baseURL = 'https://example.org/'
+languageCode = 'pt-br' # Currently only 'pt-br' supported.
+title = 'Wings'
+
+# Allows HTML in .md files
+# [markup.goldmark.renderer]
+#   unsafe = true
+
+# Create menu links (if you want more, just add more)
+[[menus.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 20
+
+# Info about you displayed in homepage 
+[params.author]
+  name = 'Icarus'
+  bio = ' Guy who flew to the sun.'
+  postInfo = 'I used to have wings...'

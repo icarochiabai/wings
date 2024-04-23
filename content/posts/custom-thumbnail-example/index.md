@@ -1,0 +1,25 @@
++++
+title = 'Custom Thumbnail Example'
+date = 2024-04-23T10:45:17-03:00
+draft = false
++++
+
+## Made following the tutorial in the github repository
+
+Check it out [here](https://github.com/icarochiabai/wings).
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tortor ipsum, blandit sed vestibulum id, dictum ac arcu. Maecenas vitae eleifend est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi at tortor dictum, vulputate lacus nec, dictum enim. Nullam pretium a quam eu euismod. Duis rutrum lacus vel varius consequat. Nunc et erat luctus, feugiat urna sit amet, maximus enim. Curabitur semper scelerisque urna. Duis nisi libero, posuere sit amet nunc vel, varius tristique neque. Nulla at dictum nibh, eget tincidunt nunc. Vestibulum elementum ultrices quam ac tincidunt.
+
+Ut quis imperdiet mauris. Vestibulum ultricies a ex quis viverra. Nulla maximus hendrerit orci, nec lacinia nibh. Sed luctus tempus consectetur. Cras dictum dignissim tortor vitae suscipit. Sed at lacus eget libero porta ullamcorper. Sed malesuada tempor sapien, in faucibus nunc bibendum nec. Etiam ante ligula, consequat non purus sed, dignissim rutrum magna. Aenean sollicitudin congue tortor vitae ultricies.
+
+Etiam lacus nulla, congue eget tristique nec, bibendum vel neque. Cras bibendum velit eu rhoncus pretium. Nullam feugiat mauris quis pharetra molestie. Maecenas non ipsum sodales nisi ultricies vehicula sit amet vitae orci. Nullam molestie enim velit, eget vulputate lectus imperdiet in. Duis vitae lobortis urna, non eleifend odio. Nullam facilisis ipsum lorem, eget ultrices nisi efficitur eget. Duis finibus, urna in condimentum rutrum, orci ex egestas tellus, a mollis ipsum libero id est. Proin maximus mattis eros at lacinia. Etiam quam ex, accumsan eget augue at, molestie sagittis elit. Sed ac sapien maximus, elementum nisi sed, condimentum risus.
+
+In feugiat risus in metus accumsan, non congue quam consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget ante lacinia, euismod turpis et, malesuada nunc. Suspendisse vulputate neque consequat, finibus metus et, vehicula eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacinia felis lobortis vehicula. Aliquam suscipit ornare varius. Cras sit amet tristique metus. Maecenas in libero rhoncus, hendrerit mi non, accumsan mi. Donec quis dignissim ex. Integer lacinia mauris vel tellus gravida, ut viverra metus lobortis.
+
+Praesent semper, sem eget elementum fermentum, nisl urna vulputate lacus, nec gravida sapien odio eu dui. Suspendisse hendrerit consectetur purus ultricies finibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum, arcu ac tincidunt efficitur, ligula enim imperdiet felis, eu tincidunt sem est eget nisl. Cras vitae ante id velit efficitur luctus. Vivamus porttitor, dolor vel tristique lobortis, nisl dolor consectetur est, porta suscipit erat lectus vel lacus. Nulla imperdiet, leo sed fringilla venenatis, neque eros ullamcorper turpis, non iaculis lorem orci quis augue. Donec vitae dapibus augue. Cras in consectetur risus, vitae fringilla purus. Curabitur pulvinar imperdiet ipsum non gravida.
+
+Mauris nec tortor rhoncus mauris tristique bibendum. Curabitur porta sagittis lorem ac ornare. Aliquam non dui egestas mauris volutpat ultrices ut quis sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec est orci, euismod nec felis non, porttitor sagittis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus a varius augue, eu dapibus leo. Nunc molestie a massa vel consectetur. Curabitur egestas ante consequat, feugiat urna ac, cursus diam. Duis tincidunt purus sit amet lorem hendrerit, ac congue metus pellentesque. Phasellus eleifend metus at felis feugiat, a condimentum orci euismod.
+
+Duis semper iaculis quam fermentum tempor. Cras ornare urna nulla, eget pharetra justo ullamcorper ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec vitae neque sed felis tristique dignissim nec ac sapien. Praesent euismod orci id egestas dignissim. Donec at cursus felis. Maecenas vestibulum imperdiet massa, varius vehicula est suscipit suscipit.
+
+Nam viverra tempor est, eu porta arcu hendrerit eu. Vivamus a est aliquet, molestie felis in, euismod massa. Aliquam venenatis ac purus rutrum auctor. Sed sollicitudin tellus in lorem varius, et molestie mi consequat. Etiam facilisis aliquam ante, dignissim laoreet leo rutrum venenatis. Cras euismod est eget rhoncus aliquam. Curabitur condimentum ex et ligula gravida tincidunt. Praesent efficitur interdum felis, nec posuere sem mattis id. In viverra urna eu mi pellentesque, egestas accumsan quam pellentesque. Etiam massa diam, molestie ut ligula sed, tempor pretium ligula. Phasellus placerat ut magna in iaculis. Nunc risus diam, condimentum eu laoreet ac, mollis vel nulla. Duis euismod nunc ac libero aliquet pulvinar. 
